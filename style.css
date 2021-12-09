@@ -1,0 +1,17 @@
+body{
+  background-color: lightpink;
+}
+table{
+  border-spacing: 0;
+  border: solid black 1px;
+}
+th{
+  border: solid black 1px;
+  background-color: white;
+}
+td{
+  border: solid red 1px;
+  padding:5px;
+  color:white;
+  background-color: black;
+}
