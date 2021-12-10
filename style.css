@@ -1,17 +1,28 @@
 body{
   background-color: lightpink;
 }
+#menu{
+  border-spacing: 0;
+  border: solid black 1px;
+}
+#cost{
+  border: solid black 1px;
+  background-color: white;
+}
+#items{
+  border: solid red 1px;
+  padding:5px;
+  color:white;
+  background-color: black;
+}
 table{
+  margin-top: 10px;
   border-spacing: 0;
   border: solid black 1px;
 }
 th{
   border: solid black 1px;
-  background-color: white;
 }
 td{
-  border: solid red 1px;
-  padding:5px;
-  color:white;
-  background-color: black;
+  border:solid black 1px;
 }
